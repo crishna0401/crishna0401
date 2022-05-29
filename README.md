@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Krishna Murthy
 - 👀 I’m interested in AI systems development
 - 🌱 I’m currently learning MTech in AI at IIsc Bangalore
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on XAI, Verifying Neural Networks, Machine Unlearning (Data deletion)
 - 📫 How to reach me crishna0401@gmail.com
 
 <!---
